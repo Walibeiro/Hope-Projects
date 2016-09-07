@@ -1,0 +1,21 @@
+{
+  "Name": "Test";
+  "Created": "2016-01-01T14:11:07.151";
+  "Modified": "2016-08-08T14:11:07.151";
+  "Author": "The author's name should appear here";
+  "Company": "A Company Name";
+  "Description": "Some description for the project";
+  "Keywords": [
+    "Keyword1", 
+    "Keyword2", 
+    "Keyword3"
+  ]
+  "Url": "https://www.github.com/Walibeiro"
+  "Options": {
+    "SomeOption": "SomeValue"
+  }
+  "Files": [
+    "Test.hpr",    
+    "Test.Unit.pas",    
+  ]
+}
