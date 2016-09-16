@@ -14,8 +14,8 @@
   "Options": {
     "SomeOption": "SomeValue"
   },
+  "MainScript": "Test.hpr",
   "Files": [
-    "Test.hpr",    
     "Test.Unit.pas"    
   ]
 }
